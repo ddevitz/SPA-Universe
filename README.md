@@ -12,7 +12,7 @@
 
 ## Screenshots
 
-![App Screenshot](screenshot-home.JPG)
-![App Screenshot](screenshot-page2.JPG)
-![App Screenshot](screenshot-page3.JPG)
+![App Screenshot](./Readme/screenshot-home.JPG)
+![App Screenshot](./Readme/screenshot-page2.JPG)
+![App Screenshot](./Readme/screenshot-page3.JPG)
 
